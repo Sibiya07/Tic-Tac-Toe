@@ -1,39 +1,29 @@
-<h1 align="center">Hi 👋, I'm Sbiya Jasemine</h1>
-<h3 align="center">"💻 Crafting Code, Building Solutions | 🚀 Software Engineer | 🌍 Open-Source Enthusiast"r</h3>
+# 🎮 Tic Tac Toe
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+Passionate+Developer!;Love+Open-Source+%26+Innovation!" />
-</p>
+A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 
----
+## 📌 Features
+- Two-player mode
+- Dynamic turn-based system
+- Win and draw detection
+- Play Again functionality
 
-### 🛠 *Tech Stack & Tools*
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,html,css,git,github,express,c,c++" />
-</p>
+## 🛠️ Tech Used
+- **HTML** (Game Structure)
+- **CSS** (Styling & UI Design)
+- **JavaScript** (Game Logic & Functionality)
 
----
+## 🚀 How to Play
+1. Click on a box to place your mark (X or O).
+2. Players take turns until one wins or it's a draw.
+3. The game highlights the winning combination.
+4. Click "Play Again" to restart the game.
 
-### 📊 *GitHub Stats & Streak*
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sibiya07&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://streak-stats.demolab.com/?user=Sibiya07&theme=radical" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sibiya07&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+## 💡 Future Improvements
+- Add AI for single-player mode
+- Improve UI animations
+- Enhance mobile responsiveness
 
----
+## 💼 License
+Open-source project. Feel free to contribute!
 
-### 🌟 *Connect With Me*
-<p align="center">
-  <a href="https://www.linkedin.com/in/sibiya-jasemine-013b09253" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:sibiarora6@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
